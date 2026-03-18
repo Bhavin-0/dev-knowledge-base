@@ -11,10 +11,14 @@
             "id": "4c50f1a3a4193e1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/setup-template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "setup-template"
             }
           }
         ]
@@ -181,6 +185,8 @@
   "active": "4c50f1a3a4193e1a",
   "lastOpenFiles": [
     "Templates/concept-template.md",
+    "Templates/daily-template.md",
+    "Templates/setup-template.md",
     "01_Concepts/Rate Limiting.md",
     "01_Concepts/Format -> write.md",
     "Untitled.md",
@@ -191,9 +197,7 @@
     "01_Concepts/write.md",
     "03_Projects/Untitled.md",
     "Templates/debug-template.md",
-    "Templates/daily-template.md",
     "Templates/cheatsheet-template.md",
-    "Templates/setup-template.md",
     "README.md",
     "Assests",
     "Templates",

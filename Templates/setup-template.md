@@ -35,7 +35,3 @@ Example:
 
 ```bash
 
-## Status
-- [ ] Not understood
-- [ ] Partially understood
-- [ ] Clear
