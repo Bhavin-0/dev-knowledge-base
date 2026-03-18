@@ -1,0 +1,66 @@
+{
+  "quickadd:choice:77af30fe-3e13-4fce-88ef-562b9be4bdaa": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "quickadd:choice:fa1db6da-104e-4346-aa28-b1b243aa69b9": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:9376f732-713b-417f-8a52-dcb42dc36814": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:011e52b2-5dcc-4e6d-b474-eb87a3b16a58": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "quickadd:choice:d6fc2569-ab5f-4c95-982b-8ba8aa7d42e6": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:45acbc26-69f9-463e-b331-68c7aaf62f82": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "quickadd:choice:8f07670d-c27f-4638-9622-2c37419b86f5": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
+}

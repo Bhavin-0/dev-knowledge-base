@@ -34,3 +34,8 @@ Example:
 ## Commands
 
 ```bash
+
+## Status
+- [ ] Not understood
+- [ ] Partially understood
+- [ ] Clear
