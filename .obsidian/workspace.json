@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3cc7f8f3fe1c3a",
+        "id": "f209b3acdc86d6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "799e79b73a3a81b2",
+            "id": "5b8116d682980755",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,10 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "335fc2ec6aa0cf22",
+  "active": "5b8116d682980755",
   "lastOpenFiles": [
-    "05_Debugging/linux/Audio/Untitled.md",
+    "04_Setups/linux_memory_optimization_zram.md",
+    "04_Setups/Running Claude Code Locally with Ollama (Complete Setup Guide).md",
     "05_Debugging/linux/Audio/Bluetooth_No_Sound_After_Connection.md",
+    "05_Debugging/linux/Audio/Untitled.md",
     "05_Debugging/linux/System",
     "05_Debugging/linux/Network",
     "05_Debugging/linux/Audio",
@@ -207,8 +209,6 @@
     "00_Index/databases.md",
     "00_Index/java.md",
     "Templates/cheatsheet-template.md",
-    "null.md",
-    "01_Concepts/rate limiting.md",
     "Assests",
     "Templates",
     "08_Daily_Logs",
