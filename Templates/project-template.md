@@ -1,5 +1,3 @@
-
-```markdown
 ---
 type: project
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -62,3 +60,4 @@ Describe system design.
 
 ## Related Notes
 - [[ ]]
+

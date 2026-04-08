@@ -1,11 +1,10 @@
-
-```markdown
 ---
 type: setup
 created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 status: active
 tags: []
+topic: 
 reviewed:
 source:
 environment:
@@ -35,3 +34,4 @@ Example:
 
 ```bash
 
+```

@@ -158,7 +158,7 @@
       "templatePath": "Templates/daily-template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{value}}}}"
+        "format": "{{value}}"
       },
       "folder": {
         "enabled": true,

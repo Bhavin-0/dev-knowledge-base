@@ -1,5 +1,7 @@
 [
   "githobs",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "dataview",
+  "metadata-menu"
 ]
