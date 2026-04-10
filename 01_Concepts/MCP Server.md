@@ -10,10 +10,12 @@ difficulty:
 source:
 ---
 
-# <% tp.file.title %>
+# MCP Server
 
 ## Definition
-Short explanation of the concept.
+It gives access to set of tools. It exposes funcitonalities of some outside service.
+
+MCP (Model Context Protocol) = Servers that give AI models contolled access to tools/data.
 
 ---
 
@@ -60,9 +62,6 @@ table link("00_Index/" + topic, topic) as "MOC"
 where file.name = this.file.name
 ```
 
-[[00_Index/<%* 
-const topics = ["system-design", "dsa", "os", "security", "java", "devops", "databases" , "networking", "web"];
-tR += await tp.system.suggester(topics, topics);
-%>]]
+[[00_Index/system-design]]
 
 ---
