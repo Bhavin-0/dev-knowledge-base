@@ -17,20 +17,60 @@ It gives access to set of tools. It exposes funcitonalities of some outside serv
 
 MCP (Model Context Protocol) = Servers that give AI models contolled access to tools/data.
 
+Safe Middleware systems between AI and real systems
+
 ---
 
-## Why It Exists
-Problem this concept solves.
+## What it does
+- AI asks MCP -> get data/ do action.
+- MCP servers exectues 
+- Returns results to AI
 
 ---
 
 ## How It Works
-Explain mechanism or flow.
+![[Pasted image 20260411003128.png]]
+
+# Simple Visual Flow 
+```
+User
+  ↓
+Your Server (backend)
+  ↓
+MCP Client (SDK inside your server)
+  ↓
+MCP Server (tool provider)
+  ↓
+External Tool/API (GitHub, DB, etc)
+
+⬆ response comes back same way ⬆
+```
+---
+# What each part is ?
+**Your Server : ** Controls everything
+**MCP Client: ** Communicator (talks MCP protocols) -> what tools are required ?
+**MCP Server: ** exposes tools  -> available tools
+**Tools/API: ** does the real work
+
 
 ---
 
 ## Example
-Real-world example or code example.
+User:
+
+> “Show my GitHub repos”
+
+Flow:
+
+1. Server gets query
+2. MCP client asks: “what tools exist?”
+3. MCP server: “getRepos tool available”
+4. Server sends query + tools to AI
+5. AI: “call getRepos”
+6. MCP client → MCP server → GitHub API
+7. Data comes back
+8. AI formats answer
+9. User gets response
 
 ---
 

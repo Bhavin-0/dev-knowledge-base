@@ -60,14 +60,38 @@ Async processing for large emails
 
 ## Problems Faced
 
--
+- Not able to connect with AI model gemini 1.5
 
 ---
 
 ## Lessons Learned
 
--
+- Building fallback between models 
+- Retry on faliure
 
+# 🐛 Debugging Log — InboxIQ
+
+---
+
+## Issue #1 — Gemini API 500 Error (Actual 404)
+
+### 🧠 Problem
+- API call from backend was returning **500 Internal Server Error** in Postman
+
+---
+
+### 🔍 Root Cause
+- The actual error was **404 Not Found from Gemini API**
+- Wrong model endpoint was used:
+  - ❌ `gemini-1.5-flash-latest`
+  - ✅ `gemini-1.5-flash`
+
+---
+
+### ⚠️ Why it was confusing
+- Backend wrapped external API error into:
+  
+  IllegalStateException
 ---
 
 ## Related Notes
