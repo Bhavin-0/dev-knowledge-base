@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Concepts/MCP Server.md",
+                "file": "04_Setups/chromium_v3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP Server"
+              "title": "chromium_v3"
             }
           }
         ]
@@ -181,14 +181,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b19761279ddef635",
+  "active": "335fc2ec6aa0cf22",
   "lastOpenFiles": [
+    "opensource-journey/opengrok/good-first-issue.md",
+    "opensource-journey/opengrok",
+    "opensource-journey/README.md",
+    "opensource-journey",
+    "Open",
+    "01_Concepts/MCP Server.md",
     "04_Setups/chromium_V2.md",
     "04_Setups/Chromium .md",
     "08_Daily_Logs/(notify-send) learing popups.md",
     "04_Setups/Running Claude Code Locally with Ollama (Complete Setup Guide).md",
     "04_Setups/linux_memory_optimization_zram.md",
-    "01_Concepts/MCP Server.md",
     "08_Daily_Logs/Bycrypt Native Binary .md",
     "00_Index/system-design.md",
     "01_Concepts/Rate limiter.md",
@@ -212,13 +217,8 @@
     "01_Concepts/Sliding Window algo.md",
     "01_Concepts/Rate Limiting.md",
     "08_Daily_Logs/prompt template .md",
-    "08_Daily_Logs/Prompt Template}}.md",
-    "08_Daily_Logs/Prompt Template.md",
     "Assests",
     "Templates",
-    "08_Daily_Logs",
-    "07_Learning_Notes",
-    "06_Roadmaps",
-    "05_Debugging"
+    "08_Daily_Logs"
   ]
 }
