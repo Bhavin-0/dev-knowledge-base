@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1f1e0060b9311e",
+        "id": "312a24506ee33569",
         "type": "tabs",
         "children": [
           {
-            "id": "b19761279ddef635",
+            "id": "ce662a8578a2bd95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Setups/chromium_v3.md",
+                "file": "2026-06-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chromium_v3"
+              "title": "2026-06-01"
             }
           }
         ]
@@ -181,8 +181,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "335fc2ec6aa0cf22",
+  "active": "ce662a8578a2bd95",
   "lastOpenFiles": [
+    "2026-06-01.md",
+    "05_Debugging/linux/Audio/Bluetooth_No_Sound_After_Connection.md",
+    "04_Setups/Running Claude Code Locally with Ollama (Complete Setup Guide).md",
+    "04_Setups/linux_memory_optimization_zram.md",
+    "04_Setups/chromium_v3.md",
+    "a.out",
     "opensource-journey/opengrok/good-first-issue.md",
     "opensource-journey/opengrok",
     "opensource-journey/README.md",
@@ -192,8 +198,6 @@
     "04_Setups/chromium_V2.md",
     "04_Setups/Chromium .md",
     "08_Daily_Logs/(notify-send) learing popups.md",
-    "04_Setups/Running Claude Code Locally with Ollama (Complete Setup Guide).md",
-    "04_Setups/linux_memory_optimization_zram.md",
     "08_Daily_Logs/Bycrypt Native Binary .md",
     "00_Index/system-design.md",
     "01_Concepts/Rate limiter.md",
@@ -208,17 +212,13 @@
     "Templates/daily-template.md",
     "Templates/concept-template.md",
     "01_Concepts/MCP Servers.md",
-    "05_Debugging/linux/Audio/Bluetooth_No_Sound_After_Connection.md",
     "05_Debugging/linux/Audio/Untitled.md",
     "05_Debugging/linux/System",
     "05_Debugging/linux/Network",
     "05_Debugging/linux/Audio",
     "05_Debugging/linux",
     "01_Concepts/Sliding Window algo.md",
-    "01_Concepts/Rate Limiting.md",
-    "08_Daily_Logs/prompt template .md",
     "Assests",
-    "Templates",
-    "08_Daily_Logs"
+    "Templates"
   ]
 }
