@@ -11,10 +11,14 @@
             "id": "94e068cf65e330d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08_Daily_Logs/Understanding PR workflow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Understanding PR workflow"
             }
           }
         ]
