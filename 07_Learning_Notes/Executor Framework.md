@@ -10,7 +10,7 @@ difficulty:
 source:
 ---
 
-# <% tp.file.title %>
+# Executor Framework
 
 ## Definition
 Short explanation of the concept.
@@ -48,13 +48,11 @@ Limitations:
 
 ```
 ---
-## Learning Status
+## Status
+- [ ] Not understood
+- [ ] Partially understood
+- [ ] Clear
 
-- [ ] Need to Learn
-- [ ] Understood
-- [ ] Implemented
-- [ ] Revised
-- [ ] Interview Ready
 ---
 ## MOC
 ```dataview
@@ -62,9 +60,6 @@ table link("00_Index/" + topic, topic) as "MOC"
 where file.name = this.file.name
 ```
 
-[[00_Index/<%* 
-const topics = ["system-design", "dsa", "os", "security", "java", "devops", "databases" , "networking", "web"];
-tR += await tp.system.suggester(topics, topics);
-%>]]
+[[00_Index/java]]
 
 ---
