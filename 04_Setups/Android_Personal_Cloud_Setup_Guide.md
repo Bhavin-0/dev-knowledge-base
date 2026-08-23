@@ -720,3 +720,11 @@ Keep Tiny File Manager in Apache's `htdocs`, and keep your actual files in:
 ```
 
 That separation makes the system easier to secure, maintain, back up, and expand later.
+
+# Further Design modification 
+
+# Objectives : 
+1. Create a shell script with the alias -> server (which will configure whole process)
+2. link it with personal domain -> to avoid entering IP to access web interface -> Inshort will look cooler 
+	before : Use funnel so Non-tailscale joined devices can see the port open 
+
