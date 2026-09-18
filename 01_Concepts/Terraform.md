@@ -44,3 +44,27 @@ resource "aws_vpc" "example" {
 
 In a VPC, CIDR (Classless Inter-Domain Routing) is a notation used to define the range of IP addresses available for you cloud 
 
+## Terraform Commands
+* terraform configure : to authenticate & autharize
+* terraform plan : it calculates the delta between current state and desired state
+* terraform apply: executes the action required to match the desired state / * terraform apply --auto-approve
+* terraform destory: the resource will be destroyed 
+
+----
+* Instance types : are the build configurations of virtual servers designed with different resources
+
+----
+## Imp points to remember 
+1. Store state file to remote backed
+2. So not update/delete the file 
+3. state locking 
+4. Isolation of StateFile
+5. Regular backup
+
+## Key learnings with the documentaiton (https://developer.hashicorp.com/terraform/language/backend/s3)
+
+1. storing state on S3 bucket supports state locking
+2. Locking can be enabled using S3 & DynamoDB. But, DynamoDB is deprecated
+
+
+
